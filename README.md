@@ -1,4 +1,4 @@
-# Bazinga-A-movie-basd-website
+# Bazinga-A-movie-based-website
 
 Tools:
 1. Html, CSS, PHP.
